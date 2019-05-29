@@ -1,4 +1,5 @@
-https://cubercsl.cn/notes/DOMjudge-Note.html
+参考的博客：https://cubercsl.cn/notes/DOMjudge-Note.html
+
 ### DOMserver 部分
 ##### 安装依赖包和功能
 ```
