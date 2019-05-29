@@ -230,10 +230,12 @@ numprocs_start=0
 #### 打印服务
 
     https://github.com/wsc500/codePrint 
+    
     这是一个独立于domjudge的系统，当初没有搞定domjudge自带的打印功能，
     让系统指定远程打印机打印，也不会配置。
 
 #### 滚榜
 
     https://github.com/hex539/scoreboard
+    
     一点都没接触。。。
